@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-  background-image: url("popcat.png");
+  background-image: url("/popcat.png");
   background-size: cover;
   background-position: center 1px;
   background-repeat: no-repeat;
