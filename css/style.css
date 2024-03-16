@@ -5,16 +5,31 @@ body{
   background-size: cover;
   background-position: center 1px;
   background-repeat: no-repeat;
-}
-.header{
   color:white;
   text-shadow: -1px -1px 0 #000,
-1px -1px 0 #000,
--1px 1px 0 #000,
-1px 1px 0 #000;
-  font-size: 72px;
-  font-family:  Georgia,monospace ;
-  font-weight: bolder;
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+  font-family:  "Nunito",monospace ;
   text-align: center ;
+}
+
+.header{
+  margin-top: 90px;
+  font-size: 72px;
+  font-weight: 800;
   letter-spacing: 4px;
+}
+#para1{
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: -15px;
+}
+#para2{
+  margin-top: 520px;
+  font-size:20px ;
+  letter-spacing: 1px;
+}
+#para2 span{
+  font-weight: 900;
 }
