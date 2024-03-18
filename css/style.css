@@ -15,7 +15,7 @@ body{
 }
 
 .header{
-  margin-top: 85px;
+  margin-top: 15px;
   font-size: 72px;
   font-weight: 800;
   letter-spacing: 4px;
@@ -23,29 +23,34 @@ body{
 #para1{
   font-size: 21px;
   font-weight: bold;
-  margin-top: -24px;
+  margin-top: 640px;
 }
-#para2{
-  font-weight: 600;
-  margin-top: 560px;
-  font-size:25px ;
-  letter-spacing: 1px;
-}
-#para2 span{
-  font-weight: 900;
-}
-#cat1{
+
+.icon{
   position: absolute;
-  top:40px;
-  left:40px;
   height:auto;
   width:60px;
 }
 #shirt{
-  position: absolute;
   top:120px;
   left:40px;
-  height:auto;
-  width:60px;
+}
+#maxwell{
+  top:40px;
+  left:40px;
+}
+#rat{
+  top:40px;
+  right:40px;
+}
+
+#emoji{
+  margin-top: -50px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+#emoji span{
+  font-size: 40px;
 }
 
